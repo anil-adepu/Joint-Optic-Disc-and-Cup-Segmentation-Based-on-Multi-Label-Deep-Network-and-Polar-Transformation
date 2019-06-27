@@ -1,7 +1,7 @@
 # Paper_code : 08252743
 -------------------------------------
 
-**IEEE TRANSACTIONS ON MEDICAL IMAGING, VOL. 37, NO. 7, JULY 2018**
+**IEEE TRANSACTION ON MEDICAL IMAGING, VOL. 37, NO. 7, JULY 2018**
 
 --------------------------------------
 **Implementation of "Joint-Optic-Disc-and-Cup-Segmentation-Based-on-Multi-Label-Deep-Network-and-Polar-Transformation" in python3**
