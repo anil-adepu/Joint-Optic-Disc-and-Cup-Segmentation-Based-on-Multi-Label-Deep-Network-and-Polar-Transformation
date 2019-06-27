@@ -1,10 +1,10 @@
-# Joint-Optic-Disc-and-Cup-Segmentation-Based-on-Multi-Label-Deep-Network-and-Polar-Transformation -> paper_code : 08252743
+#Paper_code : 08252743 -> IEEE TRANSACTIONS ON MEDICAL IMAGING, VOL. 37, NO. 7, JULY 2018
 
-** Implementation of 08252743 in python3 **
+**Implementation of "Joint-Optic-Disc-and-Cup-Segmentation-Based-on-Multi-Label-Deep-Network-and-Polar-Transformation" in python3**
 
 ---------------------
 
-** Citations & references: **
+**Citations & references:**
 
 [1] Huazhu Fu, Jun Cheng, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, and Xiaochun Cao, "Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation", IEEE Transactions on Medical Imaging (TMI), vol. 37, no. 7, pp. 1597–1605, 2018. ([ArXiv version](https://arxiv.org/abs/1801.00926))  
 
